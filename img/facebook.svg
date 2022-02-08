@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="22px" viewBox="0 0 11 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mob-t-footer" transform="translate(-198.000000, -140.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-4">
+                <g transform="translate(87.000000, 119.000000)">
+                    <g id="Facebook" transform="translate(84.000000, 0.000000)">
+                        <g id="ico-facebook" transform="translate(20.000000, 20.000000)">
+                            <path d="M13.7309493,22.6939865 L13.7309493,11.8457232 L16.7255445,11.8457232 L17.122393,8.10735151 L13.7309493,8.10735151 L13.7360371,6.23626052 C13.7360371,5.26123562 13.8286775,4.73879501 15.2290949,4.73879501 L17.1011938,4.73879501 L17.1011938,1 L14.1061747,1 C10.5086751,1 9.24244849,2.81351245 9.24244849,5.8632701 L9.24244849,8.10777489 L7,8.10777489 L7,11.8461465 L9.24244849,11.8461465 L9.24244849,22.6939865 L13.7309493,22.6939865 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
